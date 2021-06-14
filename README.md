@@ -1,6 +1,7 @@
 # Water-Distribution-Network
 schedule optimization and cost-benefit analysis
 - source, pump, tank, valve all has various constraints.
+- extensions: source, pump, valve can only change every 2 hours.
 
 Part 1: Build the most cost effective 24 hour schedule for Suez Town water distribution network, while making sure each tank ends up with the same or similar volume of water as in the beginning of the day. 
 You can assume that the day starts at 6:00am
